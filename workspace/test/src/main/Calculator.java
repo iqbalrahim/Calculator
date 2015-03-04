@@ -19,6 +19,8 @@ public class Calculator {
 		Division div = new Division();
 		float division = div.div(12, 5);
 		System.out.println(division);
+		System.out.println("A new change here to test guthub");
+
 	}
 
 }
